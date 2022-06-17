@@ -36,7 +36,7 @@ To the maximum extent permitted by applicable law, under no circumstances shall 
 You agree to indemnify and hold the Company harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorney's fees) arising from or in any way related to any claims relating to (i) your use of the Services (including any actions taken by a third party using your account), and (ii) your violation of these Terms.
 
 ## Changes to These Terms
-The Company reserves the right to update these Terms of Service at any time. If our Terms change, we will post a notice on our site located at https://poketwo.net and/or notify you by email or other means. Unless we state otherwise, your continued use of the Services after we post modifications to the Terms constitutes your agreement to those changes. If you object to the changes, please do not continue using the Services.
+The Company reserves the right to update these Terms of Service at any time. If our Terms change, we will post a notice on our site located at someting.com/polcies and/or notify you by email or other means. Unless we state otherwise, your continued use of the Services after we post modifications to the Terms constitutes your agreement to those changes. If you object to the changes, please do not continue using the Services.
 
 ## Contact Us
 If you have any questions about these Terms and Conditions, You can contact us: By email: something@something.com
