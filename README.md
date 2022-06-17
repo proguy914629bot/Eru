@@ -30,7 +30,7 @@
 - Improve, personalize, and expand our website
 - Find and prevent fraud
 
-## Right to access your data, modify it and delete it
+## Right to access your data and delete it
 
 **Access your data**
 You can contact us on our Discord support server at anytime to request your data and request deletion.
